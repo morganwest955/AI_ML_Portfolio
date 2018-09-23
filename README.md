@@ -1,0 +1,1 @@
+This repository is for the purpose of showing all work that Morgan West has done in AI, machine learning, and data science.  Not every project is guaranteed to compile and run, but most of them should.

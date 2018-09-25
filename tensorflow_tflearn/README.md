@@ -1,1 +1,1 @@
-My code is intermingled in both Python files but not clearly labled.
+My code is intermingled in both Python files but not clearly labled.  I don't exactly remember, but it was mostly the sections tweaking the neural networks for optimal results.
